@@ -16,3 +16,5 @@
 ##### [拉勾网](https://github.com/peanwang/spider/tree/master/%E6%8B%89%E5%8B%BE%E7%BD%91)
 使用requests下载网页，使用Python的multipleProcessing，实现多线程下载。使用XPATH提取信息(lxml库)。使用sqlite3把结果存入数据库。
 
+##### [快代理](https://github.com/peanwang/spider/tree/master/%E5%BF%AB%E4%BB%A3%E7%90%86)
+使用requests下载网页。使用Beautiful Soup提取信息。使用Python的multipleProcessing，实现多线程检测代理ip是否有用。最后存入txt
