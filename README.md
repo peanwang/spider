@@ -18,3 +18,6 @@
 
 ##### [快代理](https://github.com/peanwang/spider/tree/master/%E5%BF%AB%E4%BB%A3%E7%90%86)
 使用requests下载网页。使用Beautiful Soup提取信息。使用Python的multipleProcessing，实现多线程检测代理ip是否有用。最后存入txt
+
+##### [bilibili排行榜](https://github.com/peanwang/spider/tree/master/bilibili%E6%8E%92%E8%A1%8C%E6%A6%9C)
+使用requests下载网页。因为返回的是JSON格式数据，所以提取数据很方便。再把信息存入MongoDB。第二步：使用Python的multipleProcessing，下载图片和视频。

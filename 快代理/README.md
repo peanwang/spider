@@ -1,4 +1,4 @@
-##### [快代理](https://github.com/peanwang/spider/tree/master/%E5%BF%AB%E4%BB%A3%E7%90%86)
+## [快代理](https://github.com/peanwang/spider/tree/master/%E5%BF%AB%E4%BB%A3%E7%90%86)
 鉴于拉勾网爬取被封IP的经历，我准备使用代理IP。所以查了查这方面的资料。发现有网站专门从事这方面的工作。因为快代理提供了免费的IP。所以这个程序爬取快代理的免费IP。再使用多进程检测代理IP是否有用。
 
 -------------------------
